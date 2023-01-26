@@ -1,7 +1,8 @@
 
 public class Pyramid {
     /**
-     * Return a string that is a pyramid of size n, made of of asterisks and no spaces.
+     * TODO: Return a string that is a pyramid of size n, made of of asterisks and no spaces.
+     *
      *     for example:
      *
      *     size 3:
